@@ -78,7 +78,7 @@ Next.js on Vercel (real-time telemetry dashboard)
 ## Project Structure
 
 ```
-elevatebox/
+/
   app/
     main.py          # FastAPI app. Four endpoints, lifespan handler, all orchestration logic.
     llm.py           # Gemini adapter. One function: think(). Has 5s timeout + fallback.
