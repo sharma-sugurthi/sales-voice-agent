@@ -1,6 +1,6 @@
-# ElevateBox Voice Agent
+# Sales Voice Agent
 
-An autonomous voice agent that conducts real outbound sales calls for e-commerce website development. Built as a hiring assignment for ElevateBox, Hyderabad.
+An autonomous voice agent that conducts real outbound sales calls for e-commerce website development.
 
 Author: Manisharma Sugurthi
 
@@ -167,8 +167,8 @@ Every time the prospect speaks, Vapi sends the full conversation history to `/ch
 ## Local Setup
 
 ```bash
-git clone https://github.com/sharma-sugurthi/elevatebox-voice-agent.git
-cd elevatebox-voice-agent
+git clone https://github.com/sharma-sugurthi/sales-voice-agent.git
+cd sales-voice-agent
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
